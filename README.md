@@ -684,7 +684,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 👥 Acknowledgments
 
-- **Creator**: [@gayathrisrikakara](https://github.com/gayathrisrikakara)
+- **Creator**: [@sandeep kumar edhubilli ](https://github.com/gayathrisrikakara)
 - **Technologies**: Express, PostgreSQL, Redis, Docker, Node.js
 - **Community**: Open-source contributors and supporters
 
@@ -692,8 +692,8 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: gayathri@moviereview.com
-- 🐙 **GitHub**: [@gayathrisrikakara](https://github.com/gayathrisrikakara)
+- 📧 **Email**: edhubillisandeepkumar1234@gmail.com
+- 🐙 **GitHub**: [@sandeep kumar edhubilli ](https://github.com/sandeep-kumar-270904)
 - 💬 **Discord**: [Join Community](https://discord.gg/moviereview)
 - 🐦 **Twitter**: [@MovieReviewAPI](https://twitter.com/MovieReviewAPI)
 
@@ -707,7 +707,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 <div align="center">
 
-**Made with ❤️ by [Gayathri Srikakara](https://github.com/gayathrisrikakara)**
+**Made with ❤️ by [sandeep kumar edhubilli ](https://github.com/sandeep-kumar-270904)**
 
 ⭐ Star the repo if this project helped you!
 
